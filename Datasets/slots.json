@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "670d2b3f4c1e2a3b4c5d8001",
+    "centreId": "670c1a2f4c1e2a3b4c5d7001",
+    "date": "2026-10-15",
+    "startTime": "09:00 AM",
+    "endTime": "12:00 PM",
+    "capacity": 50,
+    "availableSlots": 49
+  },
+  {
+    "_id": "670d2b3f4c1e2a3b4c5d8002",
+    "centreId": "670c1a2f4c1e2a3b4c5d7001",
+    "date": "2026-10-15",
+    "startTime": "01:00 PM",
+    "endTime": "04:00 PM",
+    "capacity": 50,
+    "availableSlots": 49
+  },
+  {
+    "_id": "670d2b3f4c1e2a3b4c5d8003",
+    "centreId": "670c1a2f4c1e2a3b4c5d7001",
+    "date": "2026-10-16",
+    "startTime": "09:00 AM",
+    "endTime": "12:00 PM",
+    "capacity": 40,
+    "availableSlots": 40
+  },
+  {
+    "_id": "670d2b3f4c1e2a3b4c5d8004",
+    "centreId": "670c1a2f4c1e2a3b4c5d7002",
+    "date": "2026-10-15",
+    "startTime": "08:30 AM",
+    "endTime": "11:30 AM",
+    "capacity": 45,
+    "availableSlots": 44
+  },
+  {
+    "_id": "670d2b3f4c1e2a3b4c5d8005",
+    "centreId": "670c1a2f4c1e2a3b4c5d7002",
+    "date": "2026-10-16",
+    "startTime": "08:30 AM",
+    "endTime": "11:30 AM",
+    "capacity": 45,
+    "availableSlots": 44
+  },
+  {
+    "_id": "670d2b3f4c1e2a3b4c5d8006",
+    "centreId": "670c1a2f4c1e2a3b4c5d7002",
+    "date": "2026-10-16",
+    "startTime": "01:00 PM",
+    "endTime": "04:00 PM",
+    "capacity": 45,
+    "availableSlots": 45
+  },
+  {
+    "_id": "670d2b3f4c1e2a3b4c5d8007",
+    "centreId": "670c1a2f4c1e2a3b4c5d7003",
+    "date": "2026-10-17",
+    "startTime": "09:00 AM",
+    "endTime": "12:00 PM",
+    "capacity": 50,
+    "availableSlots": 49
+  },
+  {
+    "_id": "670d2b3f4c1e2a3b4c5d8008",
+    "centreId": "670c1a2f4c1e2a3b4c5d7003",
+    "date": "2026-10-17",
+    "startTime": "01:30 PM",
+    "endTime": "04:30 PM",
+    "capacity": 50,
+    "availableSlots": 50
+  },
+  {
+    "_id": "670d2b3f4c1e2a3b4c5d8009",
+    "centreId": "670c1a2f4c1e2a3b4c5d7004",
+    "date": "2026-10-18",
+    "startTime": "09:00 AM",
+    "endTime": "12:00 PM",
+    "capacity": 60,
+    "availableSlots": 59
+  },
+  {
+    "_id": "670d2b3f4c1e2a3b4c5d8010",
+    "centreId": "670c1a2f4c1e2a3b4c5d7004",
+    "date": "2026-10-18",
+    "startTime": "01:00 PM",
+    "endTime": "04:00 PM",
+    "capacity": 60,
+    "availableSlots": 60
+  }
+]

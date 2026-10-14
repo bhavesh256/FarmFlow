@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "670e4d1f4c1e2a3b4c5da001",
+    "farmerId": "670b8a1f4c1e2a3b4c5d6e01",
+    "centreId": "670c1a2f4c1e2a3b4c5d7001",
+    "slotId": "670d2b3f4c1e2a3b4c5d8001",
+    "cropType": "Wheat",
+    "timeSlot": "09:00 AM - 09:15 AM"
+  },
+  {
+    "_id": "670e4d1f4c1e2a3b4c5da002",
+    "farmerId": "670b8a1f4c1e2a3b4c5d6e02",
+    "centreId": "670c1a2f4c1e2a3b4c5d7001",
+    "slotId": "670d2b3f4c1e2a3b4c5d8001",
+    "cropType": "Paddy",
+    "timeSlot": "09:20 AM - 09:35 AM"
+  },
+  {
+    "_id": "670e4d1f4c1e2a3b4c5da003",
+    "farmerId": "670b8a1f4c1e2a3b4c5d6e03",
+    "centreId": "670c1a2f4c1e2a3b4c5d7001",
+    "slotId": "670d2b3f4c1e2a3b4c5d8001",
+    "cropType": "Mustard",
+    "timeSlot": "09:40 AM - 09:55 AM"
+  },
+  {
+    "_id": "670e4d1f4c1e2a3b4c5da004",
+    "farmerId": "670b8a1f4c1e2a3b4c5d6e04",
+    "centreId": "670c1a2f4c1e2a3b4c5d7001",
+    "slotId": "670d2b3f4c1e2a3b4c5d8001",
+    "cropType": "Wheat",
+    "timeSlot": "10:00 AM - 10:15 AM"
+  },
+  {
+    "_id": "670e4d1f4c1e2a3b4c5da005",
+    "farmerId": "670b8a1f4c1e2a3b4c5d6e05",
+    "centreId": "670c1a2f4c1e2a3b4c5d7001",
+    "slotId": "670d2b3f4c1e2a3b4c5d8001",
+    "cropType": "Paddy",
+    "timeSlot": "10:20 AM - 10:35 AM"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "670c1a2f4c1e2a3b4c5d7001",
+    "centreName": "Krishi Upaj Mandi Samiti Meerut Cantt",
+    "location": "Meerut",
+    "address": "Delhi Road, Near Transport Nagar, Meerut, Uttar Pradesh - 250002",
+    "status": "Active"
+  },
+  {
+    "_id": "670c1a2f4c1e2a3b4c5d7002",
+    "centreName": "Navin Krishi Mandi Parishad Hapur",
+    "location": "Hapur",
+    "address": "Bulandshahr Road, NH-334, Hapur, Uttar Pradesh - 245101",
+    "status": "Active"
+  },
+  {
+    "_id": "670c1a2f4c1e2a3b4c5d7003",
+    "centreName": "UP State Agricultural Produce Market Bulandshahr",
+    "location": "Bulandshahr",
+    "address": "Anupshahr Road, Mandi Yard, Bulandshahr, Uttar Pradesh - 203001",
+    "status": "Active"
+  },
+  {
+    "_id": "670c1a2f4c1e2a3b4c5d7004",
+    "centreName": "FCI Grain Procurement Terminal Greater Noida",
+    "location": "Noida",
+    "address": "Ecotech-II, Udyog Kendra, Greater Noida, Gautam Buddha Nagar, Uttar Pradesh - 201306",
+    "status": "Active"
+  }
+]

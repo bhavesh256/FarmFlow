@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "670b8a1f4c1e2a3b4c5d6e01",
+    "name": "Ramesh Chandra Yadav",
+    "emailOrPhone": "+919876543210",
+    "passwordHash": "123",
+    "role": "farmer",
+    "createdAt": "2026-10-01T08:30:00.000Z"
+  },
+  {
+    "_id": "670b8a1f4c1e2a3b4c5d6e02",
+    "name": "Balwinder Singh Gill",
+    "emailOrPhone": "+919814012345",
+    "passwordHash": "123",
+    "role": "farmer",
+    "createdAt": "2026-10-02T10:15:00.000Z"
+  },
+  {
+    "_id": "670b8a1f4c1e2a3b4c5d6e03",
+    "name": "Harish Chandra Tyagi",
+    "emailOrPhone": "+919412356789",
+    "passwordHash": "123",
+    "role": "farmer",
+    "createdAt": "2026-10-03T11:45:00.000Z"
+  },
+  {
+    "_id": "670b8a1f4c1e2a3b4c5d6e04",
+    "name": "Suman Devi Chaudhary",
+    "emailOrPhone": "+919758123456",
+    "passwordHash": "123",
+    "role": "farmer",
+    "createdAt": "2026-10-04T14:20:00.000Z"
+  },
+  {
+    "_id": "670b8a1f4c1e2a3b4c5d6e05",
+    "name": "Sukhdev Singh Brar",
+    "emailOrPhone": "+919872345678",
+    "passwordHash": "123",
+    "role": "farmer",
+    "createdAt": "2026-10-05T09:00:00.000Z"
+  }
+]
