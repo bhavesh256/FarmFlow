@@ -56,3 +56,5 @@ __pycache__/
 *.key
 secrets.json
 credentials.json
+
+.vscode

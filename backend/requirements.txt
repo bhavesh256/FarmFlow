@@ -1,12 +1,6 @@
 fastapi
 uvicorn[standard]
-sqlalchemy
-psycopg2-binary
-pydantic
+pymongo
 pydantic-settings
-python-dotenv
-python-jose[cryptography]
-passlib[bcrypt]
-python-multipart
-httpx
-pytest
+pwdlib[argon2]
+email-validator
